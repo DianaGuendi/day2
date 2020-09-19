@@ -1,0 +1,41 @@
+body {
+    background-color: gray;
+    margin: 0;
+}
+header{
+    background-color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+    
+}
+div.post{
+    margin-top: 15px;
+    padding: 10px;
+    display: flex;
+    margin-bottom: 15px;
+    
+}
+section{
+   
+   
+    width: 600px;
+    margin: auto;
+}
+img{
+    width: 100%;   
+}
+
+h1{
+    flex: 5;
+}
+div.feed{
+    background-color: white;
+   border: 15px;
+   
+   margin-bottom: 30px;
+}
+
